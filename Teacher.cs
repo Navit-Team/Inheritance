@@ -20,7 +20,7 @@ namespace PolyMorphysm
             this.first_name = first_name;
             this.last_name = last_name;
         }
-        public override string ToString()
+        public new string ToString()
         {
             return $"name {this.first_name}, last {this.last_name}, age {this.age}, id {this.id}";
         }

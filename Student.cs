@@ -33,7 +33,7 @@
                 base.id = id;
             }
         }
-        public override string ToString()
+        public new string ToString()
         {
             return $"name {this.first_name}, last {this.last_name}, age {this.age}, id {this.id}";
         }

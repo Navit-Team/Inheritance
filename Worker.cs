@@ -30,9 +30,9 @@ namespace PolyMorphysm
                 $"\nstatus: {this.status}\nbelonging: {this.belonging}";
         }
 
-        public override string ToString()
+        public new string ToString()
         {
-            return $"name {this.first_name}, last {this.last_name}, age {this.age}, id {this.id}";
+            return $"name {this.first_name}, last {this.last_name}, age {this.age}, id {this.id}, start working {this.start_working}";
         }
     }
 }
