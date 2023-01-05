@@ -1,0 +1,8 @@
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\bin\Debug\PolyMorphysm.exe.config
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\bin\Debug\PolyMorphysm.exe
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\bin\Debug\PolyMorphysm.pdb
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\obj\Debug\PolyMorphysm.csproj.AssemblyReference.cache
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\obj\Debug\PolyMorphysm.csproj.SuggestedBindingRedirects.cache
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\obj\Debug\PolyMorphysm.csproj.CoreCompileInputs.cache
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\obj\Debug\PolyMorphysm.exe
+C:\Users\bratt\source\repos\school work\PolyMorphysm\PolyMorphysm\obj\Debug\PolyMorphysm.pdb
